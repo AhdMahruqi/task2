@@ -1,0 +1,26 @@
+/* CSS external file */
+.logo {
+  position: fixed; 
+  top: 20px; 
+  right: 20px; 
+  width: 100px; 
+  height: auto;
+  z-index: 1000; /* Stacking over other content (always above) */
+}
+
+p { 
+  font-family:'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+h4{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+}
+h5 {
+  font-weight: bolder;
+  font-style: oblique;
+}
+
+ 
