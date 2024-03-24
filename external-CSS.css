@@ -8,9 +8,10 @@
   z-index: 1000; /* Stacking over other content (always above) */
 }
 
-h1.header {font-color: white;
+h1.header {font-color: Black;
           font-family: 'Times New Roman', Times, serif;
-          text-align: center;}
+          text-align: center;
+          background-color:white;}
 
 p { 
   font-family:'Times New Roman', Times, serif;
