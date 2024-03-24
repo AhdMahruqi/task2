@@ -11,7 +11,8 @@
 h1.header {font-color: Black;
           font-family: 'Times New Roman', Times, serif;
           text-align: center;
-          background-color:white;}
+          background-color:white;
+          padding: 100px}
 
 p { 
   font-family:'Times New Roman', Times, serif;
